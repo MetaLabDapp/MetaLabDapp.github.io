@@ -72,7 +72,7 @@ module.exports = {
         "f5_66":"战略合作伙伴",
         "f5_67":"社区成长支持者",
 
-        noNum:"200算力起购。",
+        noNum:"100算力起购。",
         copySuccee:"复制成功！",
        copyFail:"复制失败！",
        dealSuccee:"交易成功！",
