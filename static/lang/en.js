@@ -26,6 +26,7 @@ module.exports = {
         "f5_20_3":"Lead time",
         "f5_21":"Number of redemption",
         "f5_22":"Please enter the correct redemption number!",
+        "f5_22_1":"Please enter the number of MXT!",
         "f5_23":"Please enter the amount of pledge",
         "f5_24":"inadequate",
         
