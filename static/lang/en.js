@@ -83,6 +83,9 @@ module.exports = {
         "dest_29":"LV1:5000U equivalent MXT,5% yield.",
 
         "dest_30":"Exchange",
+        "dest_30_1":" Added fluidity",
+        "dest_30_2":" Market for",
+        "dest_30_3":" Blocks to browse",
         "dest_31":" By adding liquidity, you will earn 0.17% of that coin on all trades, proportional to your share in the liquidity pool. The fees earned are added to the liquidity pool, accumulated in real time and can be withdrawn by liquidating the liquidity.",
 
         "f5_47":"DEFI bonus pools",
